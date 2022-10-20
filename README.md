@@ -4,11 +4,11 @@ Use html links to access the files.
 Me:
 - Upload Code
 
-Collaborator 1 Roles:
+CollaboratorDom Roles:
 - Upload Code
 - Upload Robot Video
 
-Collaborator 2 Roles:
+CollaboratorAila Roles:
 - Upload Flowchart
 - Upload Code
 
